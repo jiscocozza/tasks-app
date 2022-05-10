@@ -1,0 +1,12 @@
+.task {
+  display: flex;
+  padding: 10px;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.not-done {
+  text-decoration: none;
+}
